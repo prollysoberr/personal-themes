@@ -3,8 +3,8 @@
     "description": "A greyish theme with a Red Moon.",
     "authors": [
         {
-            "name": "$ock",
-            "id": "1067321691061092392"
+            "name": "Ari",
+            "id": "639959347518242821"
         }
     ],
     "semanticColors": {
@@ -132,7 +132,7 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.moonaz.net/rs/wallpaper/image/63d7a63a1cbf7.jpg"
+    "url": "https://cdn.moonaz.net/rs/wallpaper/image/63d7a63a1cbf7.jpg",
     "alpha": 0.68
   },
     "spec": 2
