@@ -128,12 +128,11 @@
         "GREEN_345": "#ad2121",
         "BLUE_345": "#ad2121",
         "WHITE_500": "#c9c9c9"
-       
     },
-  "background": {
-    "blur": 0,
-    "url": "https://media.discordapp.net/attachments/1100687210891706440/1328985551004631100/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg?ex=6788b1be&is=6787603e&hm=c09d3870d0112d341d0747c04f25be023d4ae58417f33a1055a11670a726a066&",
-    "alpha": 0.68
-  },
+    "background": {
+        "blur": 0,
+        "url": "https://media.discordapp.net/attachments/1100687210891706440/1328985551004631100/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg?ex=6788b1be&is=6787603e&hm=c09d3870d0112d341d0747c04f25be023d4ae58417f33a1055a11670a726a066&",
+        "alpha": 0.68
+    },
     "spec": 2
 }
